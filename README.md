@@ -2,9 +2,6 @@
 
 A comprehensive data science project analyzing UCSD student shopping and package delivery behaviors to predict on-campus vs. off-campus residency status.
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
