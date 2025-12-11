@@ -13,15 +13,7 @@ import re
 from sklearn.preprocessing import LabelEncoder
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 import warnings
-warnings.filterwarnings('ignore')
 
-# Optional: OpenAI for embeddings
-try:
-    import openai
-    OPENAI_AVAILABLE = True
-except ImportError:
-    OPENAI_AVAILABLE = False
-    print("OpenAI not installed. To use embeddings: pip install openai")
 
 
 class DataCleaner:
